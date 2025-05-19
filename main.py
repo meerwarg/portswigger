@@ -1,6 +1,5 @@
 import requests
-
-# portswigger labs solutions
+# portswigger academy labs solutions
 
 def path_traversal_1():
     # https://portswigger.net/web-security/learning-paths/server-side-vulnerabilities-apprentice/path-traversal-apprentice/file-path-traversal/lab-simple#
